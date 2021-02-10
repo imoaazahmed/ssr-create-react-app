@@ -1,0 +1,2 @@
+- npx create-react-app appName
+- yarn add -D express ignore-styles @babel/register @babel/preset-env @babel/preset-react react-router-dom
